@@ -1,4 +1,4 @@
-# React Native Movie 🚀
+# MOVIE APP 🎬
 
 [![React Native](https://img.shields.io/badge/React%20Native-v0.79.3-green.svg)](https://facebook.github.io/react-native/)
 [![Redux](https://img.shields.io/badge/Redux-5.0.1-764ABC?logo=redux)](https://redux.js.org/)
