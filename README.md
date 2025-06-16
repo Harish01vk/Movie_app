@@ -80,9 +80,7 @@ Now, you can choose a command to run the project:
 
 ## 👨 Developed By
 
-<a href="https://twitter.com/piashcse" target="_blank">
-  <img src="https://avatars.githubusercontent.com/piashcse" width="80" align="left">
-</a>
+<h2>Harish.M</h2>
 
 **Mehedi Hassan Piash**
 
