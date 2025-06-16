@@ -70,7 +70,7 @@ React Native Movie App 🎬 - A cross-platform react native app for exploring [T
 
 ## How to run
 
-- `git clone git@github.com:piashcse/react-native-movie.git`
+- `git clone https://github.com/Harish01vk/Movie_app.git
 - `yarn install`
 
 Now, you can choose a command to run the project:
